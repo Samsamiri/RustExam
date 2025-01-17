@@ -1,0 +1,10 @@
+[package]
+name = "eval-rust-last-v"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "eval_rust_last_v"
+path = "src/lib.rs"
+
+[dependencies]
